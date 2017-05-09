@@ -15,6 +15,8 @@ function main() {
 	}
 }
 
+let x = 8;
+
 function otherFunc() {
 	// this is just a stub
 }
