@@ -11,3 +11,7 @@ function main() {
 
 	charming(); // it really is charming!
 }
+
+function otherFunc() {
+	// this is just a stub
+}
