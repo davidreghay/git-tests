@@ -18,3 +18,5 @@ function main() {
 function otherFunc() {
 	// this is just a stub
 }
+
+console.log('hi there')
