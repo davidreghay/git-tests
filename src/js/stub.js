@@ -21,4 +21,6 @@ function otherFunc() {
 	// this is just a stub
 }
 
+let aString = 'a B-1234 string';
+
 console.log('hi there')
