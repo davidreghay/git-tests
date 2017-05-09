@@ -10,4 +10,13 @@ function main() {
 	// the main stuff here
 
 	charming(); // it really is charming!
+	function innerFunc() {
+		console.log('hello')
+	}
 }
+
+function otherFunc() {
+	// this is just a stub
+}
+
+console.log('hi there')
