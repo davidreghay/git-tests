@@ -21,4 +21,6 @@ function otherFunc() {
 	// this is just a stub
 }
 
+let another = 'this is a B-2345 string'
+
 console.log('hi there')
