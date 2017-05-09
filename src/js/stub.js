@@ -10,4 +10,7 @@ function main() {
 	// the main stuff here
 
 	charming(); // it really is charming!
+	function innerFunc() {
+		console.log('hello')
+	}
 }
