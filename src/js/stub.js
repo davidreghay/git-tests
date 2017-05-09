@@ -1,8 +1,9 @@
 // Here's a file that I've written
 
-function charming() {
+function nuanced() {
 	// do stuff
-	console.log('an important message')
+	let m = Math.sqrt(3);
+	alert(m);
 }
 
 function main() {
